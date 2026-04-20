@@ -1,1 +1,22 @@
-
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #0b1220;
+  color: white;
+  text-align: center;
+}
+.app {
+  padding: 20px;
+}
+button {
+  margin: 5px;
+  padding: 10px 14px;
+}
+input {
+  margin: 6px;
+  padding: 10px;
+  width: 260px;
+}
+.wallets {
+  margin: 10px 0;
+}
