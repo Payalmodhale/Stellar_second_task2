@@ -73,4 +73,4 @@ PASTE_YOUR_SUCCESSFUL_HASH_HERE
 
 ### Clone Repository
 ```bash
-git clone YOUR_GITHUB_LINK
+git clone https://github.com/Payalmodhale/Stellar_second_task2
