@@ -74,16 +74,17 @@ PASTE_YOUR_SUCCESSFUL_HASH_HERE
 ### Clone Repository
 ```bash
 git clone https://github.com/Payalmodhale/Stellar_second_task2
+```
 ## Smart Contract Information
 
-### Contract Name
-Payment Tracker Contract
+### Contract File
+contracts/contract.rs
 
 ### Contract Address
-PASTE_YOUR_CONTRACT_ADDRESS_HERE
+GBBISKEADAQQNHNDJSIO3KD2LJNLNZ2NPA6KYVQRKIL7TNZL4ZUWSER3
 
 ### Stellar Explorer Link
-PASTE_YOUR_STELLAR_EXPLORER_LINK_HERE
+https://stellar.expert/explorer/testnet/account/GBBISKEADAQQNHNDJSIO3KD2LJNLNZ2NPA6KYVQRKIL7TNZL4ZUWSER3
 
-### Transaction Hash
-PASTE_YOUR_TRANSACTION_HASH_HERE
+### Description
+This project includes a simple Soroban smart contract stored in the contracts folder and integrated with the Multi Wallet Payment Tracker application.
