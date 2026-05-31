@@ -74,3 +74,16 @@ PASTE_YOUR_SUCCESSFUL_HASH_HERE
 ### Clone Repository
 ```bash
 git clone https://github.com/Payalmodhale/Stellar_second_task2
+## Smart Contract Information
+
+### Contract Name
+Payment Tracker Contract
+
+### Contract Address
+PASTE_YOUR_CONTRACT_ADDRESS_HERE
+
+### Stellar Explorer Link
+PASTE_YOUR_STELLAR_EXPLORER_LINK_HERE
+
+### Transaction Hash
+PASTE_YOUR_TRANSACTION_HASH_HERE
