@@ -88,3 +88,12 @@ https://stellar.expert/explorer/testnet/account/GBBISKEADAQQNHNDJSIO3KD2LJNLNZ2N
 
 ### Description
 This project includes a simple Soroban smart contract stored in the contracts folder and integrated with the Multi Wallet Payment Tracker application.
+
+## Wallet Integration
+
+This project uses Freighter Wallet for Stellar wallet connectivity.
+
+Users can:
+- Connect Freighter Wallet
+- Retrieve wallet address
+- Interact with Stellar Testnet
