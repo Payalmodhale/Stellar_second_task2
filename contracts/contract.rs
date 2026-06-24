@@ -7,7 +7,7 @@ pub struct PaymentTracker;
 
 #[contractimpl]
 impl PaymentTracker {
-    pub fn hello(env: Env) -> u32 {
-        1
+    pub fn add_payment(env: Env, amount: u32) -> u32 {
+        amount
     }
 }
