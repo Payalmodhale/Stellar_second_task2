@@ -93,7 +93,7 @@ This project includes a simple Soroban smart contract stored in the contracts fo
 
 This project uses Freighter Wallet for Stellar wallet connectivity.
 
-Users can:
+Features:
 - Connect Freighter Wallet
-- Retrieve wallet address
-- Interact with Stellar Testnet
+- Get Wallet Address
+- Connect to Stellar Testnet
